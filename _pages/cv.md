@@ -15,32 +15,49 @@ Education
 * M.S. in Economics, University of Wisconsin-Madison, 2024
 * B.S. in Finance, Zhejiang University, 2022
 
+Research assistant experience
+======
+* May 2023 - March 2024: Part-time research assistant
+  * University of Illinois Urbana-Champaign
+  * Duties includes: Handling large datasets and performing some natural language processing.
+  * Supervisor: Prof. Qiping Xu
+    
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - September 2024: Macro-Finance Research Analyst Internship
+  * Hithink RoyalFlush Information Network Co.,Ltd.
+  * Chinese 10-Year Government Bond Yield Forecast Model
+  * LLM-based Gold Price Forecasting Agent
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Working Papers
+======
+* Enhancing Equity Risk Premium Forecasting: The Role of Economic Theory
+* Working with Prof. Xiaobin Liu
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python(skilled)
+  * MATLAB (skilled)
+  * Stata(skilled)
+  * Julia(skilled)
+  * R(skilled)
+* Machine Learning and LLM Framework:
+  * XGBoost
+  * LSTM
+  * Clustering
+  * Bandit
+  * LangChain, etc.
 
+Other information
+======
+* Volunteer Service: More than 300 hours service
+  * e.g. volunteer work in European Art Museum in Hangzhou
+* Language:
+  * Native Chinese
+  * Fluent English
+ 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +79,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
