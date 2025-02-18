@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](https://www.dropbox.com/scl/fi/ppgvd7oc7q1c4np7n67zs/MengtengWang_CV.pdf?rlkey=leod4qa4zkv6sihu5o84b8tuv&st=76w3cban&dl=0). Below are some highlights.
+
 Education
 ======
 * Ph.D in Finance and Economics, University of Warwick, 2030 (expected)
