@@ -5,7 +5,7 @@ permalink: /working-papers/
 author_profile: true
 ---
 
-Here are working papers
+Following research is ongoing.
 
 {% for paper in site.working_papers %}
 - **{{ paper.title }}**  
