@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Mengteng Wang's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
