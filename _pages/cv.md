@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance and Economics, University of Warwick, 2030 (expected)
+* M.S. in Economics, University of Wisconsin-Madison, 2024
+* B.S. in Finance, Zhejiang University, 2022
 
 Work experience
 ======
