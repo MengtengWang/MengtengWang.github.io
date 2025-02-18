@@ -17,14 +17,14 @@ Education
 * M.S. in Economics, University of Wisconsin-Madison, 2024
 * B.S. in Finance, Zhejiang University, 2022
 
-Research assistant experience
+Research Assistant Experience
 ======
 * May 2023 - March 2024: Part-time research assistant
   * University of Illinois Urbana-Champaign
   * Duties includes: Handling large datasets and performing some natural language processing.
   * Supervisor: Prof. Qiping Xu
     
-Work experience
+Work Experience
 ======
 * July 2024 - September 2024: Macro-Finance Research Analyst Internship
   * Hithink RoyalFlush Information Network Co.,Ltd.
