@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mengteng Wang"
+title                    : "Mengteng Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Mengteng Wang"
 description              : &description "PhD student in Finance"
