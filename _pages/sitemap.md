@@ -12,13 +12,15 @@ A list of all the posts and pages found on the site.
   - [{{ item.title }}]({{ item.url }})
 {% endfor %}
 
+
+<!--
 <h2>Posts</h2>
 {% for post in site.posts %}
   - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 
-<!--
+
 ---
 layout: archive
 title: "Sitemap"
