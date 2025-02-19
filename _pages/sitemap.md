@@ -5,7 +5,6 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-A list of all the posts and pages found on the site.
 
 <h2>Navigation Pages</h2>
 {% for item in site.data.navigation.main %}
