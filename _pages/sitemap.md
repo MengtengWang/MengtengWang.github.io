@@ -5,6 +5,27 @@ permalink: /sitemap/
 author_profile: true
 ---
 
+A list of all the posts and pages found on the site.
+
+<h2>Navigation Pages</h2>
+{% for item in site.data.navigation.main %}
+  - [{{ item.title }}]({{ item.url }})
+{% endfor %}
+
+<h2>Posts</h2>
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
+<!--
+---
+layout: archive
+title: "Sitemap"
+permalink: /sitemap/
+author_profile: true
+---
+
 {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
@@ -35,3 +56,4 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->
