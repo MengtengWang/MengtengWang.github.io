@@ -23,6 +23,11 @@ Research Assistant Experience
   * University of Illinois Urbana-Champaign
   * Duties includes: Handling large datasets and performing some natural language processing.
   * Supervisor: Prof. Qiping Xu
+ 
+Working Papers
+======
+* Predicting Equity Premium with Shrinkage Estimation Guided by Economic Theory
+* with Prof. Xiaobin Liu
     
 Work Experience
 ======
@@ -30,11 +35,6 @@ Work Experience
   * Hithink RoyalFlush Information Network Co.,Ltd.
   * Chinese 10-Year Government Bond Yield Forecast Model
   * LLM-based Gold Price Forecasting Agent
-
-Working Papers
-======
-* Predicting Equity Premium with Shrinkage Estimation Guided by Economic Theory
-* with Prof. Xiaobin Liu
 
 Skills
 ======
