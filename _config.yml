@@ -225,9 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  working_papers:
+  research:
     output: true
-    permalink: /working-papers/:path/
+    permalink: /research/:path/
 
 
 # These settings control how pages and collections are included in the site
