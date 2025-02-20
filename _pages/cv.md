@@ -33,8 +33,8 @@ Work Experience
 
 Working Papers
 ======
-* Enhancing Equity Risk Premium Forecasting: The Role of Economic Theory
-* Working with Prof. Xiaobin Liu
+* Predicting Equity Premium with Shrinkage Estimation Guided by Economic Theory
+* with Prof. Xiaobin Liu
 
 Skills
 ======
