@@ -23,7 +23,8 @@ Research Assistant Experience
   * University of Illinois Urbana-Champaign
   * Duties includes: Handling large datasets and performing some natural language processing.
   * Supervisor: Prof. Qiping Xu
-* January 2023 - December 2023: research assistant
+* January 2023 - December 2023: Research assistant
+  * University of Wisconsin-Madison
   * Duties includes: Optimized computing algorithm for a large Italian labor dataset, comprising 40 million observations.
   * Supervisor: Prof. Rasmus Lentz
  
