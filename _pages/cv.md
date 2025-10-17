@@ -30,7 +30,7 @@ Research Assistant Experience
  
 Working Papers
 ======
-* Predicting Equity Premium with Shrinkage Estimation Guided by Economic Theory
+* Equity Premium Prediction with Shrinkage Estimation Guided by Economic Theory
 * with Xiaobin Liu, Yanchu Liu and Tao Zeng
     
 Work Experience
