@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student in Finance at [Warwick Business School](https://www.wbs.ac.uk/), exploring the fields of asset pricing and financial econometrics. My goal is to outperform the “Mr. Historical Average” in predicting the equity risk premium.
+Hi! I'm a PhD student in Finance at [Warwick Business School](https://www.wbs.ac.uk/), exploring the fields of asset pricing and financial econometrics. 
+<!--
+My goal is to outperform the “Mr. Historical Average” in predicting the equity risk premium.
 
 Beyond academia, I am also a kitchen artist, an avid hiker, a photography enthusiast, and a storyteller with a knack for humor.
 
 If you’re interested in discussing forecasting, historical anecdotes, or funny stories, feel free to reach out for a chat!
-
+-->
 <!--
 A data-driven personal website
 ======
